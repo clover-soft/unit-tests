@@ -1,19 +1,19 @@
 package lesson04;
 
-import lesson04.book.Book;
-import lesson04.book.BookRepository;
-import lesson04.book.BookService;
-import lesson04.book.InMemoryBookRepository;
-import lesson04.database.DataProcessor;
-import lesson04.database.Database;
-import lesson04.hotel.BookingService;
-import lesson04.hotel.HotelService;
-import lesson04.message.MessageService;
-import lesson04.message.NotificationService;
+// import lesson04.book.Book;
+// import lesson04.book.BookRepository;
+// import lesson04.book.BookService;
+// import lesson04.book.InMemoryBookRepository;
+// import lesson04.database.DataProcessor;
+// import lesson04.database.Database;
+// import lesson04.hotel.BookingService;
+// import lesson04.hotel.HotelService;
+// import lesson04.message.MessageService;
+// import lesson04.message.NotificationService;
 import lesson04.weather.WeatherReporter;
 import lesson04.weather.WeatherService;
 
-import java.util.List;
+// import java.util.List;
 
 public class Main {
 
