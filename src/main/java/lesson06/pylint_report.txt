@@ -1,0 +1,8 @@
+yakov@macbook java % pylint ./lesson06
+************* Module lesson06.test_lesson06
+lesson06/test_lesson06.py:14:15: E1102: Lesson06 is not callable (not-callable)
+lesson06/test_lesson06.py:26:15: E1102: Lesson06 is not callable (not-callable)
+lesson06/test_lesson06.py:37:15: E1102: Lesson06 is not callable (not-callable)
+
+------------------------------------------------------------------
+Your code has been rated at 5.31/10 (previous run: 5.31/10, +0.00)
